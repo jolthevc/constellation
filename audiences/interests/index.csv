@@ -1,0 +1,19 @@
+interest_id,slug,label,status,evidence_grade,primary_jobs,profile_path,last_reviewed
+INT-001,student-life,Student life and campus culture,candidate,hypothesis,"belonging;humor",,2026-10-28
+INT-002,internet-culture,Internet culture and creator phenomena,candidate,hypothesis,"entertainment;identity_expression",,2026-10-28
+INT-003,automotive,Automotive culture,candidate,hypothesis,"mastery;identity_expression",,2026-10-28
+INT-004,diy-and-renovation,DIY and home renovation,candidate,hypothesis,"mastery;practical_utility",,2026-10-28
+INT-005,interior-design,Interiors and design,candidate,hypothesis,"aesthetic_inspiration;discovery",,2026-10-28
+INT-006,personal-finance,Personal finance and consumer economics,candidate,hypothesis,"informed_decision;practical_utility",,2026-10-28
+INT-007,parenting,Parenting and family routines,candidate,hypothesis,"reassurance;social_connection",,2026-10-28
+INT-008,travel-and-local-discovery,Travel and local discovery,candidate,hypothesis,"discovery;aesthetic_inspiration",,2026-10-28
+INT-009,trades-and-tools,Trade work and tools,candidate,hypothesis,"mastery;community",,2026-10-28
+INT-010,fashion-and-style,Fashion and personal style,candidate,hypothesis,"identity_expression;aesthetic_inspiration",,2026-10-28
+INT-011,film-and-tv-lore,Film and television behind-the-scenes,candidate,hypothesis,"curiosity;entertainment",,2026-10-28
+INT-012,science-and-strange-stories,Science and unusual true stories,candidate,hypothesis,"curiosity;discovery",,2026-10-28
+INT-013,cooking-and-food,Food and cooking,candidate,hypothesis,"sensory_reward;practical_utility",,2026-10-28
+INT-014,fitness-and-running,Exercise and running,candidate,hypothesis,"mastery;community",,2026-10-28
+INT-015,beauty-and-skincare,Beauty and skincare,candidate,hypothesis,"discovery;informed_decision",,2026-10-28
+INT-016,gaming-and-digital-worlds,Gaming and digital culture,candidate,hypothesis,"entertainment;belonging",,2026-10-28
+INT-017,pets-and-animals,Pets and animal care,candidate,hypothesis,"entertainment;practical_utility",,2026-10-28
+INT-018,career-and-workplace,Careers and workplace culture,candidate,hypothesis,"mastery;humor",,2026-10-28
