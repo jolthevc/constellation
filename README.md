@@ -4,12 +4,12 @@
 
 The aim is to build differentiated properties, including AI characters, faceless editorial brands, animated publishers, fictional formats and other media forms, that collectively earn relevant attention across many communities. Start with one manually operated property; retain the architecture to scale research, creative learning, measurement and eventually bounded automation.
 
-**Current state, 2026-10-28:** Documentation, 149-component format taxonomy, hook/payoff frameworks, candidate audience taxonomy, property/content templates, graph/metric schemas, local bootstrap scripts, research, operations and agent instructions are built. **No real property has been selected or launched in this repository. No publishing automation is active.** Audience profiles and opportunities are candidates, not validated market claims.
+**Current state, 2026-10-28:** Documentation, 149-component format taxonomy, hook/payoff frameworks, 68 candidate audience contexts, 147 candidate interest communities, 30 interest-to-commerce hypotheses, property/content templates, graph/metric schemas, local bootstrap scripts, research, operations and agent instructions are built. **No real property has been selected or launched in this repository. No publishing automation is active.** Audience profiles and opportunities are candidates, not validated market claims.
 
 ## Start in five minutes
 
 1. Read the [mission](strategy/north-star.md), [creative constitution](strategy/operating-principles.md) and [technical architecture](architecture.md).
-2. Explore [audience hypotheses](audiences/README.md), [formats](formats/README.md), [psychology](psychology/framework.md), [36 hook families](psychology/hook-library.csv), and the [attention-to-payoff standard](strategy/attention-retention-payoff-standard.md).
+2. Explore [audience hypotheses](audiences/README.md) and [segmentation design](audiences/segmentation-design.md), [formats](formats/README.md), [psychology](psychology/framework.md), [36 hook families](psychology/hook-library.csv), and the [attention-to-payoff standard](strategy/attention-retention-payoff-standard.md).
 3. Choose a **real first pilot** using [portfolio allocation questions](strategy/portfolio-allocation.md) and [research protocol](research/README.md). Do not assume the seed candidates have validated demand.
 4. Create its folder: `python scripts/new_property.py --name "Working Name" --slug working-name`. Complete the identity, audience psychology, property-specific [engagement strategy](properties/_template/engagement-strategy.md), format, production and commercial templates.
 5. Create content drafts: `python scripts/new_content.py --property PROP-001`. Use the per-content [brief](properties/_template/content-brief.md), [creative approval gate](operations/creative-approval-gate.md), manual publishing process, and [engagement tests](performance/engagement-testing.md).
