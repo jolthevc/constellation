@@ -21,6 +21,7 @@ ERRORS: list[str] = []
 CSV_CONTRACTS = {
     "audiences/segments/index.csv": {"segment_id", "slug", "status", "evidence_grade"},
     "audiences/interests/index.csv": {"interest_id", "slug", "status", "evidence_grade"},
+    "audiences/commercial-interest-map.csv": {"mapping_id", "interest_id", "commercial_category_id", "evidence_grade"},
     "formats/catalog.csv": {"format_id", "layer", "family", "name"},
     "psychology/hook-library.csv": {"hook_id", "family", "opening_pattern"},
     "properties/registry.csv": {"property_id", "slug", "name", "status", "property_path"},
@@ -128,6 +129,13 @@ def main() -> int:
             json.loads(item.read_text(encoding="utf-8"))
         except Exception as exc:
             error(str(item.relative_to(ROOT)), f"JSON invalid: {exc}")
+
+    categories = {x["id"] for x in yaml.safe_load((ROOT / "audiences/commercial-categories.yaml").read_text())["categories"]}
+    for i, row in enumerate(rows["audiences/commercial-interest-map.csv"], 2):
+        if row.get("interest_id") not in interests:
+            error(f"audiences/commercial-interest-map.csv:{i}", f"unknown interest {row.get('interest_id')}")
+        if row.get("commercial_category_id") not in categories:
+            error(f"audiences/commercial-interest-map.csv:{i}", f"unknown category {row.get('commercial_category_id')}")
 
     for i, row in enumerate(rows["research/opportunity-backlog.csv"], 2):
         for ref in filter(None, (row.get("audience_segment_ids") or "").split(";")):
