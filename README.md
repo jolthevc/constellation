@@ -27,3 +27,8 @@ Working foundation for an AI-native portfolio of differentiated media properties
 ## To build next
 
 Full strategic constitution, audience and interests taxonomy, first property identity and content package, performance capture, network graph schema, and iterative format exemplars. The format catalog is deliberately modular and never considered permanently exhaustive.
+
+## Attention-to-satisfaction operating system (mandatory)
+Start with [the universal creative standard](strategy/attention-retention-payoff-standard.md), then use the [36-family hook library](psychology/hook-library.csv), [retention and payoff playbook](psychology/retention-and-payoff-playbook.md), and [composable format engagement design](formats/engagement-design.md).
+
+**Every** property defines [its own creative engagement grammar](properties/_template/engagement-strategy.md). **Every** produced item uses the [content brief and payoff contract](properties/_template/content-brief.md), passes the [creative approval gate](operations/creative-approval-gate.md) and follows the [engagement experimentation method](performance/engagement-testing.md). Strong views without a satisfying payoff or reason to return are insufficient.
