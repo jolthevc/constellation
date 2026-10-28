@@ -14,3 +14,12 @@ For research tasks, save citations, access dates, evidence grade and unresolved 
 For property creation, propose differentiated editorial or character concepts and select formats only after examining audience needs, quality potential and genuine commercial fit. Prefer platform-native creative excellence over synthetic volume.
 
 For coding, keep generated datasets deterministic and auditable. Use stable entity IDs and documented schemas. Do not auto-publish, purchase, create external identities, or alter strategic decisions without explicit authorization.
+
+## Mandatory creative workflow
+For any property design, content script, video brief or optimization:
+1. Read `strategy/attention-retention-payoff-standard.md` and `psychology/retention-and-payoff-playbook.md`.
+2. Use `psychology/hook-library.csv` and `formats/engagement-design.md` to select psychologically plausible tactics that fit this specific property.
+3. Follow `properties/_template/engagement-strategy.md` for new properties and `properties/_template/content-brief.md` for each individual output.
+4. Identify what arrests the scroll, what maintains interest, and exactly how/when the promised payoff is delivered. Prefer multiple original opening candidates on major pieces.
+5. Run `operations/creative-approval-gate.md`, then follow `performance/engagement-testing.md` after posting.
+6. Never write generic “comment below” bait or imply an AI character had experiences it did not. Check quality and trust before metrics.
