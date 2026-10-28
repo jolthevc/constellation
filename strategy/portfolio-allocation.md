@@ -20,5 +20,5 @@ Record scores with their evidence quality; weighting should be calibrated only a
 - What would cause us to kill, revise, or expand the experiment?
 - Who approves launch, content, publishing and spend?
 
-## Portfolio portfolio review
+## Portfolio review
 Monthly: review differentiated reach and production economics; separate platform effects and exogenous trends from genuine creative learning. Avoid launching ten similar accounts solely because one worked. See `../graph/model.md` and `../performance/portfolio-reviews/_template.md`.
