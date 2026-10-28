@@ -11,4 +11,4 @@ This is a shared source of *hypotheses and sourced evidence*, not a prediction a
 
 `taxonomy.yaml` describes controlled dimensions. `commercial-categories.yaml` defines opportunities rather than permissions to target or sell.
 
-The initial index records are discovery **candidates only**. No implied survey, audience size, purchasing propensity or social-platform preference.
+The seed discovery indexes currently include **68 segment contexts and 147 interest communities**, plus 30 initial commerce-adjacency hypotheses in `commercial-interest-map.csv`. All are unvalidated discovery **candidates only**. See `segmentation-design.md` for overlapping axes and how not to misinterpret the rows. No implied survey, audience size, purchasing propensity or social-platform preference.
