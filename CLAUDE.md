@@ -25,3 +25,6 @@ Build genuinely engaging original media. Every piece must intentionally earn att
 
 ## Code conventions
 Python 3.11+, standard library by default, PyYAML and jsonschema for validation. Keep generated artifacts deterministic, auditable and easy to inspect. Stable IDs; avoid needless infrastructure. No credentials or media blobs in version control. Distinguish all research hypotheses from internally measured performance.
+
+## October 2026 research enrichment
+Use `research/2026-evidence-synthesis.md`, `research/datasets/README.md`, `audiences/researched-cohorts-2026.md`, `formats/researched-performance-2026.md` and `research/2026-property-opportunity-priorities.md` to ground new opportunity ranking. Read existing profile/deep-dive files; do not claim unresearched catalog rows are validated. The next evidence requirement is `research/format-and-creator-audit-plan.md`, with real creator/post samples and our own measured content experiments. Inherit all original synthetic-media, privacy and human-approval safeguards.
