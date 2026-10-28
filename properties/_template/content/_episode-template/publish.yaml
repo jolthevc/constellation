@@ -1,0 +1,15 @@
+content_id: CNT-YYYY-NNN
+property_id: PROP-XXX
+status: draft
+intended_platforms: []
+approved_assets: []
+sources: []
+rights_review: pending
+synthetic_media_disclosure_review: pending
+sponsor_disclosure_review: pending
+human_approval:
+  approved: false
+  reviewer:
+  approved_at:
+published: []
+# Published entries after actual posting: [{channel_id: CHAN-XXX, post_id: '', url: '', published_at: ''}]
