@@ -6,6 +6,12 @@ The aim is to build differentiated properties, including AI characters, faceless
 
 **Current state, 2026-10-28:** Documentation, 149-component format taxonomy, hook/payoff frameworks, 68 candidate audience contexts, 147 candidate interest communities, 30 interest-to-commerce hypotheses, property/content templates, graph/metric schemas, local bootstrap scripts, research, operations and agent instructions are built. **No real property has been selected or launched in this repository. No publishing automation is active.** Audience profiles and opportunities are candidates, not validated market claims.
 
+## October 2026 audience and creative evidence enrichment
+
+Start with the [research synthesis](research/2026-evidence-synthesis.md), [source-bound evidence points](research/datasets/evidence-points-2026.csv), [Pew US demographic adoption table](research/datasets/platform-adoption-us-2026.csv), [researched cohort interpretation](audiences/researched-cohorts-2026.md), [format study](formats/researched-performance-2026.md), and [property research priorities](research/2026-property-opportunity-priorities.md).
+
+The intelligence layer now includes 8 research-stage segment profiles, 10 research-stage interest profiles and 15 macro-evidence format deep dives. These are NOT 68 fully researched audiences, 147 verified interest markets or 149 performance-validated formats. The [creator forensic audit](research/format-and-creator-audit-plan.md) and [open questions](research/2026-open-questions.csv) remain before creator-specific claims.
+
 ## Start in five minutes
 
 1. Read the [mission](strategy/north-star.md), [creative constitution](strategy/operating-principles.md) and [technical architecture](architecture.md).
