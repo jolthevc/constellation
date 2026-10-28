@@ -1,0 +1,250 @@
+# Common descriptive and psychological tags used by formats/catalog.csv
+# All entries are hypotheses by default. Do not assume causal effects or a demographic-wide preference.
+# Validated evidence belongs in linked research and experiment results.
+version: 1
+last_reviewed: 2026-10-27
+mechanisms:
+  access:
+    description: "Rare or behind-the-scenes access that removes distance from a world."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  aesthetic:
+    description: "Visual style or taste that viewers enjoy or identify with."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  agency:
+    description: "Feeling more able to act, choose, create or change outcomes."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  anticipation:
+    description: "Looking forward to a known next installment or payoff."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  aspiration:
+    description: "Imagining an attractive but plausible future self or experience."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  awe:
+    description: "Perceived scale, beauty or extraordinariness that inspires wonder."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  belonging:
+    description: "Feeling connected to a group, shared experience or community."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  calm:
+    description: "Reduced stimulation or a soothing emotional experience."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  clarity:
+    description: "Reduced cognitive effort or increased intelligibility."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  community:
+    description: "Shared participation and ongoing mutual recognition."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  completion:
+    description: "Satisfaction from a process concluding or pattern resolving."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  conflict:
+    description: "Competing viewpoints or stakes that create narrative tension."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  context:
+    description: "Relevant background that helps a viewer understand events."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  contrast:
+    description: "A meaningful juxtaposition that aids comparison or highlights difference."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  craft:
+    description: "Appreciation for demonstrated skill, effort or workmanship."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  credibility:
+    description: "Perceived trustworthiness, accuracy and appropriate expertise."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  curation:
+    description: "Confidence that thoughtful selection saves viewer effort."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  curiosity:
+    description: "Desire to resolve a meaningful information gap."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  delight:
+    description: "Enjoyable positive surprise or small pleasure."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  dialogue:
+    description: "Value from an exchange of perspectives rather than a monologue."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  discovery:
+    description: "Encountering an unfamiliar place, fact, product or idea."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  drama:
+    description: "Emotional stakes in a sequence of actions or events."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  emotion:
+    description: "A broad affective response, to be specified before testing."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  empathy:
+    description: "Resonance with another's feelings, circumstances or perspective."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  energy:
+    description: "Lively emotional or audiovisual stimulation."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  entertainment:
+    description: "Enjoyment, amusement or escape as a primary content job."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  familiarity:
+    description: "Comfort and anticipation produced by recurring conventions or personalities."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  hope:
+    description: "Possibility of a desired outcome becoming achievable."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  humor:
+    description: "Amusement through wit, incongruity, recognition or playful surprise."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  identification:
+    description: "Recognizing one's experience or perspective in the content."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  identity:
+    description: "Affirming or exploring one's self-concept and social expression."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  immersion:
+    description: "Feeling mentally involved in an environment, scene or story."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  intimacy:
+    description: "A sense of proximity or personal communication without implying a real reciprocal friendship."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  learning:
+    description: "Acquiring information or concepts worth retaining."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  loss_aversion:
+    description: "Sensitivity to avoiding mistakes or losses; avoid exploitation of fear."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  mastery:
+    description: "Satisfaction from understanding or improving a skill."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  meaning:
+    description: "Connecting an idea or event to values or broader significance."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  nostalgia:
+    description: "Emotion attached to remembered or culturally familiar experiences."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  novelty:
+    description: "Attention drawn by unfamiliar forms or new information."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  participation:
+    description: "Ability to contribute, influence or interact with content."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  play:
+    description: "Enjoyment of challenges, games, quizzes or exploration."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  presence:
+    description: "Feeling of immediacy and situated experience."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  quick_reward:
+    description: "Rapidly delivered useful or entertaining payoff."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  reassurance:
+    description: "Reducing uncertainty with credible, useful information."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  reciprocity:
+    description: "Desire to contribute when the audience receives meaningful value."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  recognition:
+    description: "Being acknowledged appropriately by a creator or community."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  relief:
+    description: "The removal of an experienced practical or emotional friction."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  repetition:
+    description: "Enjoyment or learning through recurring structure, with fatigue risk."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  routine:
+    description: "Expected, periodic value incorporated into voluntary habits."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  sensory:
+    description: "Pleasure from visual, auditory or tactile qualities of media."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  sharing:
+    description: "Motivation to send content to others to help, bond or express identity."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  social_proof:
+    description: "Information about others' actual choices or behavior; never fabricate it."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  status:
+    description: "Attention to expertise, taste, achievement or relative social position."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  story:
+    description: "Engagement with a sequence of causally linked events."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  surprise:
+    description: "A meaningful departure from expectation."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  suspense:
+    description: "Uncertainty about a consequential outcome."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  transformation:
+    description: "Interest in changes from a starting state to a later state."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  trust:
+    description: "Confidence built through accuracy, consistency, and integrity over time."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  uncertainty:
+    description: "An unresolved question requiring clarification or prediction."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  utility:
+    description: "Practical value in solving problems or making decisions."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
+  validation:
+    description: "Feeling that one's observed experience or concern is understood."
+    status: hypothesis
+    ethical_note: "Validate with evidence; prioritize truthful value and trust."
