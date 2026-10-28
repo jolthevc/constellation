@@ -1,0 +1,9 @@
+segment_id,slug,label,status,evidence_grade,primary_jobs,related_interest_ids,profile_path,last_reviewed
+SEG-001,college-students,College students (life-stage),candidate,hypothesis,"entertainment;belonging;practical_utility",INT-001;INT-002,,2026-10-28
+SEG-002,first-time-homeowners,First-time homeowners (life-event),candidate,hypothesis,"mastery;reassurance;practical_utility",INT-004;INT-005,,2026-10-28
+SEG-003,young-professionals,Early-career professionals (career-stage),candidate,hypothesis,"aspiration;humor;informed_decision",INT-006;INT-002,,2026-10-28
+SEG-004,parents-young-children,Parents of young children (life-context),candidate,hypothesis,"entertainment;reassurance;practical_utility",INT-007;INT-005,,2026-10-28
+SEG-005,retirement-planners,People planning retirement (life-context),candidate,hypothesis,"informed_decision;practical_utility;discovery",INT-006;INT-008,,2026-10-28
+SEG-006,home-service-professionals,Home service trade professionals (occupation),candidate,hypothesis,"mastery;humor;community",INT-004;INT-009,,2026-10-28
+SEG-007,urban-renters,Urban renters (housing-context),candidate,hypothesis,"aesthetic_inspiration;practical_utility;humor",INT-005;INT-010,,2026-10-28
+SEG-008,curiosity-viewers,Broad curiosity-led media consumers (behavioral),candidate,hypothesis,"curiosity;entertainment;discovery",INT-011;INT-012,,2026-10-28
