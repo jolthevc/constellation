@@ -67,3 +67,10 @@ These are **not** automated-success predictions.
 
 ## Hook and payoff crosswalk
 Every deployed format combination also needs an explicit attention, retention, payoff and relationship design. See [engagement-design.md](engagement-design.md), [36 hook families](../psychology/hook-library.csv), and [the progression/payoff playbook](../psychology/retention-and-payoff-playbook.md). These tactical records are hypotheses; they do not imply the format automatically produces a ranking benefit. A format may be effective with no spoken CTA and restrained pacing.
+
+## 2026 research enrichment
+- [Measured cross-platform format findings with denominators](researched-performance-2026.md)
+- [15 evidence-informed format deep dives](deep-dives/README.md)
+- [Original creative examples vs actual post-audit protocol](../research/format-and-creator-audit-plan.md)
+
+**Do not collapse** Instagram carousel engagement per reach into discovery reach, or video podcast consumption into demand for fictional AI dialogue. These distinct claims are labeled individually.
