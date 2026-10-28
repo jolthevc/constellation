@@ -23,3 +23,12 @@ This is a manual-first, future-agent-assisted system for building an AI-native m
 
 ## Stage
 Only the format and psychology foundation has been established so far. The complete portfolio graph, property bibles, measurement pipelines and agents have not yet been built.
+
+## Mandatory attention and payoff workflow (new)
+Before creating any property, review `strategy/attention-retention-payoff-standard.md`, `psychology/hook-library.csv`, `psychology/retention-and-payoff-playbook.md`, `formats/engagement-design.md` and `properties/_template/engagement-strategy.md`.
+
+Every property MUST maintain its own `engagement-strategy.md`: approved opening families, visual first-frame grammar, retention structure, payoff conventions, natural interaction boundaries, reasons to return and hypotheses to test. Do not impose the same loud/salesy template on every property.
+
+Before any production, create a `content-brief.md` for that item based on `properties/_template/content-brief.md`; specify first frame, alternative hooks, exact payoff, progression, optional CTA and intended behavioral signal. The payoff must be deliverable in the content itself. Every item must pass `operations/creative-approval-gate.md`, be logged with `performance/engagement-testing.md` and improve shared learning with evidence.
+
+Never assert precise algorithm weights, guaranteed thresholds or causal gains without a controlled study. Keep engagement authentic; no fake social proof, pressure-to-comment, fabricated experience or unrewarding delayed reveals. “No CTA” is a valid and often preferable creative decision.
