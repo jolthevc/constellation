@@ -1,0 +1,17 @@
+property_id: PROP-XXX
+channels: []
+# Example structure only; do not create fictional live accounts:
+# - channel_id: CHAN-XXX
+#   platform: youtube
+#   handle: ""
+#   url: ""
+#   account_type: creator
+#   status: planned
+#   created_at:
+#   language: en
+#   market: ""
+#   native_surfaces: [short_vertical_video]
+#   data_export_method: manual
+#   metrics_last_imported_at:
+#   commercial_disclosure_rule_ref: ../../operations/compliance.md
+#   credential_location: external_secret_manager_only
