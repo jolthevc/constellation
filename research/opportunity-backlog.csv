@@ -1,0 +1,6 @@
+opportunity_id,concept,audience_segment_ids,interest_ids,hypothesis,format_candidates,status,evidence_grade,next_action
+OPP-001,Faceless home renovation mistakes,SEG-002,INT-004,"Useful demonstrations may earn saves and repeat viewing",,researching,hypothesis,Research comparable creators and production rights
+OPP-002,Internet culture story explainers,SEG-008,INT-002,"Curiosity and humorous narrative payoff may support sharing",,candidate,hypothesis,Identify undercovered themes and competitors
+OPP-003,Visual interiors discoveries,SEG-007,INT-005,"Aesthetic reveal and practical sourcing may create save behavior",,candidate,hypothesis,Research non-talking-head editorial formats
+OPP-004,Trade-life humor and practical tips,SEG-006,INT-009,"Community specificity may foster both belonging and utility",,candidate,hypothesis,Research genuine trade perspectives and rights
+OPP-005,Film production lore,SEG-008,INT-011,"Behind-the-scenes context and narrative payoff may drive shares",,candidate,hypothesis,Check rights and research novel storytelling angles

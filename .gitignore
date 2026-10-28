@@ -1,0 +1,28 @@
+# Python build/runtime
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+# Local, private and large media
+secrets/
+credentials/
+exports/
+raw-analytics/
+tmp/
+scratch/
+assets/raw/
+assets/generated/
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.mp3
+*.psd
+*.aep
+*.blend
+# Do not ignore committed markdown/yaml/csv schemas and reference links
+.DS_Store

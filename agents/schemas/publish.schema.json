@@ -1,0 +1,86 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Constellation content publication status",
+  "type": "object",
+  "required": [
+    "content_id",
+    "property_id",
+    "status",
+    "approved_assets",
+    "human_approval",
+    "published"
+  ],
+  "properties": {
+    "content_id": {
+      "type": "string",
+      "pattern": "^CNT-([0-9]{4}-[0-9]{3,}|YYYY-NNN)$"
+    },
+    "property_id": {
+      "type": "string",
+      "pattern": "^PROP-(XXX|[0-9]{3,})$"
+    },
+    "status": {
+      "enum": [
+        "idea",
+        "draft",
+        "in_review",
+        "approved",
+        "published",
+        "reviewed"
+      ]
+    },
+    "approved_assets": {
+      "type": "array"
+    },
+    "human_approval": {
+      "type": "object",
+      "required": [
+        "approved"
+      ],
+      "properties": {
+        "approved": {
+          "type": "boolean"
+        },
+        "reviewer": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "approved_at": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "published": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "channel_id",
+          "post_id",
+          "url",
+          "published_at"
+        ],
+        "properties": {
+          "channel_id": {
+            "type": "string"
+          },
+          "post_id": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          },
+          "published_at": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  },
+  "additionalProperties": true
+}

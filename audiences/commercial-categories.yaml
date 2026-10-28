@@ -1,0 +1,21 @@
+version: 1
+last_reviewed: 2026-10-28
+status: exploratory_taxonomy
+categories:
+  - {id: COM-001, name: home_improvement, examples: [tools, supplies, professional_services]}
+  - {id: COM-002, name: consumer_finance, examples: [budgeting_software, financial_education], review_required: regulated_claims}
+  - {id: COM-003, name: fashion_and_apparel, examples: [clothing, accessories]}
+  - {id: COM-004, name: food_and_kitchen, examples: [kitchenwares, groceries]}
+  - {id: COM-005, name: travel_and_experiences, examples: [travel_services, local_experiences]}
+  - {id: COM-006, name: automotive, examples: [maintenance, accessories, equipment]}
+  - {id: COM-007, name: beauty_and_personal_care, examples: [cosmetics, skincare], review_required: substantiation}
+  - {id: COM-008, name: education_and_learning, examples: [courses, learning_apps]}
+  - {id: COM-009, name: software_and_apps, examples: [productivity, creative_software]}
+  - {id: COM-010, name: parenting_and_family, examples: [household_products, educational_products], review_required: safety}
+  - {id: COM-011, name: wellness_and_fitness, examples: [fitness_equipment, training_apps], review_required: health_claims}
+  - {id: COM-012, name: entertainment_and_gaming, examples: [games, media_subscriptions]}
+  - {id: COM-013, name: pets, examples: [supplies, grooming]}
+  - {id: COM-014, name: home_services, examples: [renovation, repairs, maintenance]}
+notes:
+  - "Categories are potential adjacency, not sponsorship approval, an audience buying forecast or a personalized sensitive trait."
+  - "Verify product eligibility, laws, platform ad rules, evidence and disclosures before commercial activity."

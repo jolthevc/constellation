@@ -1,0 +1,30 @@
+property_id: PROP-XXX
+slug: replace-me
+name: Placeholder Property
+property_type: undecided # character_led | faceless_editorial | illustrated | community | other
+status: proposed # proposed | researching | pilot | active | paused | retired
+owner: human_owner
+created_at:
+reviewed_at:
+primary_segment_ids: []
+secondary_segment_ids: []
+interest_ids: []
+primary_format_ids: []
+primary_hook_ids: []
+platforms: []
+property_files:
+  identity_bible: identity-bible.md
+  psychology: psychology.md
+  engagement_strategy: engagement-strategy.md
+  audience_strategy: audience-strategy.md
+  content_strategy: content-strategy.md
+  production_guide: production-guide.md
+  channels: channels.yaml
+  monetization: monetization.md
+  learnings: learnings.md
+approval:
+  human_launch_approved: false
+  human_publish_approval_required: true
+  autonomous_publish_allowed: false
+  autonomous_spend_allowed: false
+notes: "Placeholder; copy into a real PROP-XXX directory only when launching."
