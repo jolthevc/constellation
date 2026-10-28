@@ -64,3 +64,6 @@ These are **not** automated-success predictions.
 - No fake engagement, fabricated interaction, or misrepresentation of a character as a real human.
 - Optimize for fulfilled expectations and sustained trust, not exploitative retention.
 - Every property uses an empirically validated *portfolio* of formats rather than one compulsory house style.
+
+## Hook and payoff crosswalk
+Every deployed format combination also needs an explicit attention, retention, payoff and relationship design. See [engagement-design.md](engagement-design.md), [36 hook families](../psychology/hook-library.csv), and [the progression/payoff playbook](../psychology/retention-and-payoff-playbook.md). These tactical records are hypotheses; they do not imply the format automatically produces a ranking benefit. A format may be effective with no spoken CTA and restrained pacing.
