@@ -1,0 +1,1 @@
+experiment_id,property_id,channel_id,question,hypothesis,variant_content_ids,control_content_ids,primary_metric,secondary_metrics,start_date,end_date,method,confounders,result_summary,confidence,decision,next_test
