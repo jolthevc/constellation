@@ -40,3 +40,8 @@ Record actual platform-specific observations: first-seconds retention, time watc
 
 ## Audience versus property
 If a content concept has high format fit but weak property fit, don't force it. Consider a separate property or modify the concept. If it has strong personality fit but weak audience relevance, return to research. If the content earns views without satisfied viewers, do not scale it blindly.
+
+## Operational enforcement, not just a score
+The governing standard is `../strategy/attention-retention-payoff-standard.md`. The canonical tactical libraries are `hook-library.csv` and `retention-and-payoff-playbook.md`. Every property MUST have an approved property-level `engagement-strategy.md`; every content item MUST have a brief modeled on `../properties/_template/content-brief.md` and pass `../operations/creative-approval-gate.md`.
+
+Evaluate the exact **first visible frame**, the first **meaningful value delivered**, and the **specific payoff moment**. Consider no CTA a valid choice. When comparing performance, follow `../performance/engagement-testing.md`; claims that 1-second hooks, rewatch loops, or arbitrary jump-cut frequency necessarily improve ranking are not established universal facts.
