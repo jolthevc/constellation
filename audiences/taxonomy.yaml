@@ -1,0 +1,53 @@
+version: 1
+last_reviewed: 2026-10-28
+entity_prefixes:
+  audience_segment: SEG
+  interest: INT
+  property: PROP
+  channel: CHAN
+  content: CNT
+  experiment: EXP
+  source: SRC
+  hook: HK
+  format: FMT
+status_values: [candidate, researching, evidenced, tested, active, deprecated]
+evidence_values: [hypothesis, secondary_report, primary_official, direct_observation, internal_test, internal_measured]
+psychological_jobs:
+  - entertainment
+  - humor
+  - belonging
+  - identity_expression
+  - discovery
+  - practical_utility
+  - mastery
+  - escape_and_relaxation
+  - social_connection
+  - aesthetic_inspiration
+  - reassurance
+  - informed_decision
+  - aspiration
+  - curiosity
+viewing_contexts:
+  - passive_scroll
+  - intentional_search
+  - repeat_series_viewer
+  - social_share_received
+  - researching_purchase
+  - entertainment_break
+  - commute_or_audio
+  - active_community_participation
+audience_dimensions:
+  - interests_and_affinities
+  - life_context_and_circumstances
+  - expressed_goals_and_frictions
+  - consumption_behavior
+  - community_norms
+  - language_and_region_when_relevant
+  - age_band_when_relevant
+  - commercial_jobs_when_relevant
+relationship_types: [interested_in, overlaps_with, has_need_for, exposed_to, follows, saves_for, shares_with, commercially_relevant_to]
+rules:
+  - "Never assume one identity, age, gender or location determines a preference."
+  - "Do not infer individuals' sensitive characteristics or maintain personal-level profiles."
+  - "Mark all initial taxonomy entries as candidates, not measured audiences."
+  - "Link every quantitative claim to methodology, date, sample and source."
