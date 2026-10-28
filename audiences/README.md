@@ -12,3 +12,6 @@ This is a shared source of *hypotheses and sourced evidence*, not a prediction a
 `taxonomy.yaml` describes controlled dimensions. `commercial-categories.yaml` defines opportunities rather than permissions to target or sell.
 
 The seed discovery indexes currently include **68 segment contexts and 147 interest communities**, plus 30 initial commerce-adjacency hypotheses in `commercial-interest-map.csv`. All are unvalidated discovery **candidates only**. See `segmentation-design.md` for overlapping axes and how not to misinterpret the rows. No implied survey, audience size, purchasing propensity or social-platform preference.
+
+## October 2026 macro research
+Read [researched-cohorts-2026.md](researched-cohorts-2026.md) for the US platform age matrix, interpretive limits and why a content audience is not reducible to age. The first eight segment profiles and ten interest profiles now contain sources, actual supported facts, creative hypotheses, constraints and validation designs. **They are marked researching**, not validated. See `../research/datasets/evidence-points-2026.csv` and `../research/sources.csv`.
