@@ -28,3 +28,6 @@ Foundation, templates and simple local helpers exist. There is no real pilot pro
 
 ## Outputs
 Make changes concise, evidenced and versioned. Point to exactly which property/source/experiment supports a claim. Recommend the smallest next experiment that could falsify the strongest uncertainty.
+
+## Evidence review for all new portfolio proposals (Oct 2026)
+Before choosing a channel, audience or content method, read `research/2026-evidence-synthesis.md`, `audiences/researched-cohorts-2026.md`, `formats/researched-performance-2026.md`, and the relevant researched cohort/format files, then consult `research/2026-open-questions.csv`. Never assert that every SEG/INT/FMT catalog entry is empirically studied. Macro platform adoption ≠ audience taste; sponsored industry spend ≠ property revenue; provider benchmark ≠ causal uplift. Creator-level forensic evidence must be logged with actual post URLs and dates, not invented benchmark rows.
