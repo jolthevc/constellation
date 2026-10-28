@@ -51,3 +51,6 @@ Measure follow conversion per qualified view, repeat-view behavior, retention, s
 
 ## Change control
 Do not have agents silently rewrite a property's foundational psychological promise in response to one viral post. Propose changes with evidence and owner approval.
+
+## Mandatory actionable engagement companion
+Maintain a separate `engagement-strategy.md` using `properties/_template/engagement-strategy.md` in the repo root. It operationalizes this psychological contract with approved hook families, first-frame grammar, narrative pacing, payoff types, reasons to share/save/follow, optional CTAs and audience-specific tests. Every post also gets a content-specific brief, and a payoff quality review. Refer to `strategy/attention-retention-payoff-standard.md` rather than generic “make it viral” instructions.
