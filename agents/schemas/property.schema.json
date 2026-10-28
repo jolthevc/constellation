@@ -1,0 +1,99 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Constellation property record",
+  "type": "object",
+  "required": [
+    "property_id",
+    "slug",
+    "name",
+    "property_type",
+    "status",
+    "owner",
+    "primary_segment_ids",
+    "interest_ids",
+    "primary_format_ids",
+    "approval"
+  ],
+  "properties": {
+    "property_id": {
+      "type": "string",
+      "pattern": "^PROP-(XXX|[0-9]{3,})$"
+    },
+    "slug": {
+      "type": "string",
+      "minLength": 2
+    },
+    "name": {
+      "type": "string",
+      "minLength": 2
+    },
+    "property_type": {
+      "type": "string"
+    },
+    "status": {
+      "enum": [
+        "proposed",
+        "researching",
+        "pilot",
+        "active",
+        "paused",
+        "retired"
+      ]
+    },
+    "owner": {
+      "type": "string"
+    },
+    "primary_segment_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^SEG-[0-9]{3,}$"
+      }
+    },
+    "interest_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^INT-[0-9]{3,}$"
+      }
+    },
+    "primary_format_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^FMT-[0-9]{3,}$"
+      }
+    },
+    "primary_hook_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^HK-[0-9]{3,}$"
+      }
+    },
+    "approval": {
+      "type": "object",
+      "required": [
+        "human_launch_approved",
+        "human_publish_approval_required",
+        "autonomous_publish_allowed",
+        "autonomous_spend_allowed"
+      ],
+      "properties": {
+        "human_launch_approved": {
+          "type": "boolean"
+        },
+        "human_publish_approval_required": {
+          "type": "boolean"
+        },
+        "autonomous_publish_allowed": {
+          "type": "boolean"
+        },
+        "autonomous_spend_allowed": {
+          "type": "boolean"
+        }
+      }
+    }
+  },
+  "additionalProperties": true
+}
