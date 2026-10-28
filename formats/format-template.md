@@ -60,3 +60,14 @@ Define shot sizes, framing, required real footage, synthetic assets, text overla
 - Primary metric, secondary metrics, guardrails:
 - Results and uncertainty:
 - Decision: test further, adopt, modify, or retire:
+
+## Required engagement-specific design
+Link approved hook family IDs from `../psychology/hook-library.csv` and document:
+- The exact first frame/opening (or first slide/line), 3 alternate openings where worthwhile.
+- The opening's honest viewer promise, first meaningful reward, and why it fits this audience/property.
+- The beat-by-beat escalation, useful progression, re-hooks and optional rewatch bonus.
+- The payoff family, location and test showing the opening promise is fulfilled.
+- One primary desired viewer behavior (or none), natural/optional CTA, and what would feel manipulative.
+- Primary hook/retention/payoff metric, comparator and uncertainty.
+
+See `engagement-design.md` and `../strategy/attention-retention-payoff-standard.md`.
